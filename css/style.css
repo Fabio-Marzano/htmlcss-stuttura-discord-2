@@ -127,15 +127,30 @@ ul.text-center li {
     
 }
 
+.bg-lightaqua {
+    background-color: rgb(83, 221, 175);
+    padding: 20px 0;
+}
+
 .h-700 {
     height: 700px; 
 }
 
 .top-footer {
-    padding: 5px 0 15px 0;
+    padding: 10px 0 40px 0;
     border-bottom: 1px solid grey;
 }
 
 .bottom-footer {
-    padding-top: 10px;
+    padding-top: 25px;
+}
+
+.box-bottom-footer {
+    background-color: rgb(241, 107, 129);
+    border: 1px dashed black;
+    padding: 10px;
+}
+
+.justify-between {
+    justify-content: space-between;
 }
